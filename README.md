@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/vurtnec-mcp-lancedb-node-badge.png)](https://mseep.ai/app/vurtnec-mcp-lancedb-node)
+
 # LanceDB Node.js Vector Search
 
 A Node.js implementation for vector search using LanceDB and Ollama's embedding model.
